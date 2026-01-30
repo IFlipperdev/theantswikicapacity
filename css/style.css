@@ -57,7 +57,7 @@ header > h1{
     font-family: "Playwrite IN Guides", cursive;
 }
 header > p{
-    color: white;
+    color: rgb(99, 184, 1);
     font-family: "Indie Flower", cursive;
     text-align: center;
 }
@@ -116,3 +116,4 @@ iframe {
     position: relative;
     width: 70%;
 }
+
