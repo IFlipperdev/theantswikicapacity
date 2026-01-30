@@ -46,7 +46,7 @@ body{
     background-color: rgb(94, 88, 88);
 }
 header{
-    background: gray url(../img/background.jpg) no-repeat left top;
+    background: black;
     background-size: cover;
     padding: 5px;
     text-align: center;
@@ -57,7 +57,7 @@ header > h1{
     font-family: "Playwrite IN Guides", cursive;
 }
 header > p{
-    color: rgb(99, 184, 1);
+    color: white;
     font-family: "Indie Flower", cursive;
     text-align: center;
 }
@@ -116,4 +116,5 @@ iframe {
     position: relative;
     width: 70%;
 }
+
 
